@@ -30,7 +30,7 @@ Electrical Engineering undergrad from Maharashtra, India, applying **machine lea
 
 ## 🛠 Tech stack
 
-- Languages: Python, C/C++ (embedded), MATLAB/Octave basics  
+- Languages: Python, C/C++ (embedded) basics, MATLAB basics  
 - ML / DL: PyTorch, TensorFlow/Keras, scikit-learn, NumPy, pandas  
 - Domains: Power systems, batteries, numerical methods, basic control  
 - Tools: Jupyter, Streamlit, Git/GitHub
