@@ -1,11 +1,10 @@
-
 # Hi, I'm Abhishek 👋
 
-Electrical Engineering undergrad from Maharashtra, India, applying **machine learning** to power systems, batteries, and embedded systems.
+Electrical Engineering undergrad from Maharashtra, India, applying machine learning to power systems, utilities, and energy asset monitoring, with a future plan of going towards embedded machine learning for real world systems.
 
-- 🔌 Working on ML for power grid anomaly detection and EV-style battery SOH/RUL prediction  
-- 📡 Interested in TinyML, embedded ML on ESP32, and real-time monitoring for energy systems  
-- 🧠 Comfortable with PyTorch, TensorFlow/Keras, classical ML, and numerical methods  
+- ⚡ Working on ML for power grid anomaly detection, power quality faults, and energy asset monitoring
+- 📡 Interested in embedded ML, real-time monitoring, and intelligent diagnostics for electrical systems
+- 🧠 Comfortable with PyTorch, TensorFlow/Keras, classical ML, and numerical modeling
 - 🏎️ Outside code: motorsports, go-kart design, and vehicle testing
 
 ## 🔭 Featured projects
@@ -22,17 +21,16 @@ Electrical Engineering undergrad from Maharashtra, India, applying **machine lea
 - [yolo_insulator](https://github.com/abhishekspawar0803-svg/yolo_insulator)  
   Insulator defect detection with YOLOv8/11/26 and a Streamlit inference interface.
 
-- [power_quality_fault](https://github.com/abhishekspawar0803-svg/power_quality_fault)
+- [power_quality_fault](https://github.com/abhishekspawar0803-svg/power_quality_fault)  
   PyTorch-based multiclass power quality fault detection using engineered electrical features and neural network classification.
 
 ## 🛠 Tech stack
 
-- Languages: Python, C/C++ (embedded) basics, MATLAB basics  
-- ML / DL: PyTorch, TensorFlow/Keras, scikit-learn, NumPy, pandas  
-- Domains: Power systems, batteries, numerical methods, basic control  
+- Languages: Python, C/C++ (embedded) basics, MATLAB basics
+- ML / DL: PyTorch, TensorFlow/Keras, scikit-learn, NumPy, pandas
+- Domains: Power systems, power quality, batteries, condition monitoring, numerical modeling
 - Tools: Jupyter, Streamlit, Git/GitHub
 
 ## 📫 Contact
 
 - Email: abhishekspawar0803@gmail.com
-- LinkedIn: soon to be added
