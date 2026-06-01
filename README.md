@@ -5,7 +5,6 @@ Electrical Engineering undergrad from Maharashtra, India, applying machine learn
 - ⚡ Working on ML for power grid anomaly detection, power quality faults, and energy asset monitoring
 - 📡 Interested in embedded ML, real-time monitoring, and intelligent diagnostics for electrical systems
 - 🧠 Comfortable with PyTorch, TensorFlow/Keras, classical ML, and numerical modeling
-- 🏎️ Outside code: motorsports, go-kart design, and vehicle testing
 
 ## 🔭 Featured projects
 
